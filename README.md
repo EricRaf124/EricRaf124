@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Supabase, AWS, Docker**
 
-💬 Ask me about **Next.js, React, TypeScript,... or anything [here](https://github.com/EricRaf124/EricRaf124/issues)**
+💬 Ask me about **Next.js, React, TypeScript,...
 
 ⚡ Fun fact **I love building modern UIs with Tailwind CSS!**
 
